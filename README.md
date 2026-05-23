@@ -1,5 +1,5 @@
  🏦 Banking Customer Churn Prediction
- ChurnZero Hackathon 2025 | Round 2 Submission
+ ChurnZero Hackathon 2026 | Round 2 Submission
 
 
 
@@ -152,4 +152,4 @@ churnzero-banking-churn/
 Python • XGBoost • Scikit-learn • Pandas • NumPy • Google Colab
 
 ---
-*Built with ❤️ for ChurnZero Hackathon 2025*
+*Built with ❤️ for ChurnZero Hackathon 2026*
